@@ -4,7 +4,7 @@ print('hello world!')
 
 a = 5
 b = None
-c = a
+c = a #clever
 
 
 for i in range(2, 5):
